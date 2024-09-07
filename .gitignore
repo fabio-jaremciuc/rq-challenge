@@ -1,0 +1,7 @@
+# Gradle
+/build/
+.gradle/
+build/
+
+# IDE specific
+.idea/
